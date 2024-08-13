@@ -1,6 +1,6 @@
 # DocumentParser_using_OpenParse
 
-This project demonstrates how to use OpenParse, a document parsing library, to extract and process various elements from PDF files. The notebook covers basic document parsing, table data extraction, metadata extraction, and advanced parsing with custom processing steps.
+This notebook demonstrates how to use OpenParse, a document parsing library, to extract and process various elements from PDF files. The notebook covers basic document parsing, table data extraction, metadata extraction, and advanced parsing with custom processing steps.
 
 ## Table of Contents
 
