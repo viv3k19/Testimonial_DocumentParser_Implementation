@@ -1,0 +1,595 @@
+{
+    "block1": [
+        {
+            "text": "UCC FINANCING STATEMENT\n\f",
+            "coordinates": {
+                "x1": 105.67134094238281,
+                "y1": 237.61947631835938,
+                "x2": 543.77294921875,
+                "y2": 279.7265930175781
+            }
+        },
+        {
+            "text": "B NAME & PHONE OF CONTACT AT FILER (optional)\n\f",
+            "coordinates": {
+                "x1": 116.15306091308594,
+                "y1": 316.5672607421875,
+                "x2": 587.778564453125,
+                "y2": 342.9100646972656
+            }
+        },
+        {
+            "text": " \n\n1a. ORGANIZATION'S NAME\n\nOR\n\n \n\n \n\n1o. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\nHUEBNER RICHIE HICKS\n1c. MAILING ADDRESS: CITY, STATE |POSTAL CODE COUNTRY\nLEAD HILL AR | 72644 USA\n\n12282 N RIGGS\n\n   \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 93.34196472167969,
+                "y1": 738.3434448242188,
+                "x2": 1604.1690673828125,
+                "y2": 952.584716796875
+            }
+        },
+        {
+            "text": " \n\n \n \n   \n\n2a. ORGANIZATION'S NAME\n\n   \n \n \n \n\nOR\n\n   \n\n20. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\n\n \n\n \n\n2c. MAILING ADDRESS: POSTAL CODE\n\n   \n\n3. SECURED PARTY'S NAME jor NAME of ASSIGNEE of ASSIGNOR SECURED PARTY): Provide only one Secured Party name (3a or 3b)\n3a. ORGANIZATION'S NAME\n\nFIRST COMMUNITY BANK\n\n3b. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\n\n \n\n3c. MAILING ADDRESS\n\nPO BOX 4330\n\nTATE |POSTAL CODE\nTESVILLE AR | 72503\n4. COLLATERAL: This financing statement covers the following collateral:\n\n9092 NARRLIRY 950 LD ATATOR CN: 272911901 DITIC ANIV ANIR ATT DART ATTAMTINIENTC MR AMMRCIONC\n\n  \n\f",
+            "coordinates": {
+                "x1": 91.9543685913086,
+                "y1": 1006.186279296875,
+                "x2": 1603.4029541015625,
+                "y2": 1482.217041015625
+            }
+        },
+        {
+            "text": "& COLLATERAL. [his financing statement covers the following collateral:\n\n2023 MERCURY 250 HP MOTOR SN: 3B211291, PLUS ANY AND ALL PARTS, ATTACHMENTS OR ACCESSIONS\nTHERETO; WHETHER ANY OF THE FOREGOING IS OWNED NOW OR ACQUIRED LATER; ALL ACCESSIONS,\nADDITIONS, REPLACEMENTS, AND SUBSTITUTIONS RELATING TO ANY OF THE FOREGOING; ALL\nRECORDS OF ANY KIND RELATING TO ANY OF THE FOREGOING; ALL PROCEEDS RELATING TO ANY OF\nTHE FOREGOING (INCLUDING INSURANCE, GENERAL INTANGIBLES AND ACCOUNTS PROCEEDS)\n\f",
+            "coordinates": {
+                "x1": 93.12147521972656,
+                "y1": 1459.2034912109375,
+                "x2": 1595.243896484375,
+                "y2": 1631.0828857421875
+            }
+        },
+        {
+            "text": "RIGHT OF SETOFF. TO THE EXTENT PERMITTED BY APPLICABLE LA W, LENDER RESERVES A RIGHT OF\nSETOFF IN ALL GRANTOR'S ACCOUNTS WITH LENDER (WHETHER CHECKING, SAVINGS, OR SOME OTHER\nACCOUNT). THIS INCLUDES ALL ACCOUNTS GRANTOR HOLDS JOINTLY WITH SOMEONE ELSE AND ALL\nACCOUNTS GRANTOR MAY OPEN IN THE FUTURE.\n\f",
+            "coordinates": {
+                "x1": 103.85606384277344,
+                "y1": 1656.9949951171875,
+                "x2": 1591.9466552734375,
+                "y2": 1790.14990234375
+            }
+        },
+        {
+            "text": " \n\n. DEBTOR'S NAME: Provide only one Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\nname will not fit in line 1, leave all of item 1 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 130.4314727783203,
+                "y1": 689.2569580078125,
+                "x2": 1574.6815185546875,
+                "y2": 735.1319580078125
+            }
+        },
+        {
+            "text": "2. DEBTOR'S NAME: Provide only one Debtor name (2a or 2b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\nname will not fit in line 2b, leave all of item 2 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 120.16671752929688,
+                "y1": 955.4381713867188,
+                "x2": 1582.3223876953125,
+                "y2": 1002.3046264648438
+            }
+        },
+        {
+            "text": " \n\n \n \n  \n\n2a. ORGANIZATION'S NAME\n\nOR\n\n     \n \n \n \n\n   \n\n20. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S)\n\n \n\n2c. MAILING ADDRESS: POSTAL CODE\n\n   \n\nnn PCRIIDER DADTYIOC RIAN aR\n\n   \n\f",
+            "coordinates": {
+                "x1": 102.17535400390625,
+                "y1": 1009.6305541992188,
+                "x2": 1612.91650390625,
+                "y2": 1226.5496826171875
+            }
+        },
+        {
+            "text": " \n\n5. Check only if applicable and check only one box: Collateral is held in a Trust (see UCC1Ad, item 17 and Instructions) being acministered by a Decedent\u2019s Personal Representative\n\n \n\n6a. Check only if applicable and check only one box: 6b. Check only if applicable and check only one box:\n[1 Public-Finance Transaction [F] Manutactured-Home Transaction [[] A Debtor is a Transmitting Utility (71 Asricuttural Lien \u2014 [7] Non-uce Filing\n7. ALTERNATIVE DESIGNATION {if applicable): [_] Lessee/Lessor [_] consignee/Consignor L] seterBuyer Bailee/Bailor [L] Licenseeiticensor\n\n \n\n \n\n \n\n \n\n8. OPTIONAL FILER REFERENCE DATA:\n1116170\n\f",
+            "coordinates": {
+                "x1": 116.49815368652344,
+                "y1": 1909.7801513671875,
+                "x2": 1591.94921875,
+                "y2": 2098.00634765625
+            }
+        }
+    ],
+    "block2": [
+        {
+            "text": "UCC FINANCING STATEMENT\n\nFOLLOW INSTRUCTIONS\n\n \n\nA. NAME & PHONE OF CONTACT AT FILER (optional)\n\n \n\nB. E-MAILCONTACT AT FILER (optional)\n\n \n\nC. SEND ACKNOWLEDGMENT TO: (Name and Address)\n\n[__186l6\n\nFIRST COMMUNITY BANK\n1325 HARRISON ST\n| BATESVILLE, AR 72501\n\n \n  \n\n3/4) Arkansas Secretary of State\n\n. ke Business and Commercial Services Division\nCanon\n\nFinancing Statement - Initial\nDate Fited:11/20/2023 9:37 AM Page(s):1\n\nFiling ID :4000028037756\nDocument ID :17503743001\n\nTHE ABOVE SPACE IS FOR FILING OFFICE USE ONLY\n\f",
+            "coordinates": {
+                "x1": 104.68050384521484,
+                "y1": 94.90155029296875,
+                "x2": 1529.9248046875,
+                "y2": 666.4703369140625
+            }
+        },
+        {
+            "text": "UCC FINANCING STATEMENT\n\f",
+            "coordinates": {
+                "x1": 101.58899688720703,
+                "y1": 245.43930053710938,
+                "x2": 545.2691650390625,
+                "y2": 284.9430847167969
+            }
+        },
+        {
+            "text": " \n\nA. NAME & PHONE OF CONTACT AT FILER (optional)\n\n \n\nB. E-MAILCONTACT AT FILER (optional)\n\n \n\nC. SEND ACKNOWLEDGMENT TO: (Name and Address)\n\n[__186l6 7\n\nFIRST COMMUNITY BANK\n1325 HARRISON ST\n| BATESVILLE, AR 72501 _|\n\nTHE AE\n\f",
+            "coordinates": {
+                "x1": 112.70414733886719,
+                "y1": 307.3245849609375,
+                "x2": 1052.298828125,
+                "y2": 663.6176147460938
+            }
+        },
+        {
+            "text": "JA NAME & PHONE OF CONTACT AT FILER (optional)\n\f",
+            "coordinates": {
+                "x1": 111.18745422363281,
+                "y1": 318.33404541015625,
+                "x2": 607.4398193359375,
+                "y2": 344.17120361328125
+            }
+        },
+        {
+            "text": "4. COLLATERAL: This financing statement covers the following collateral:\n\n2023 MERCURY 250 HP MOTOR SN: 3B211291, PLUS ANY AND ALL PARTS, ATTACHMENTS OR ACCESSIONS\nTHERETO; WHETHER ANY OF THE FOREGOING IS OWNED NOW OR ACQUIRED LATER; ALL ACCESSIONS,\nADDITIONS, REPLACEMENTS, AND SUBSTITUTIONS RELATING TO ANY OF THE FOREGOING; ALL\nRECORDS OF ANY KIND RELATING TO ANY OF THE FOREGOING; ALL PROCEEDS RELATING TO ANY OF\nTHE FOREGOING (INCLUDING INSURANCE, GENERAL INTANGIBLES AND ACCOUNTS PROCEEDS)\n\f",
+            "coordinates": {
+                "x1": 99.19861602783203,
+                "y1": 1451.7239990234375,
+                "x2": 1594.24462890625,
+                "y2": 1638.023681640625
+            }
+        },
+        {
+            "text": " \n\n5. Check only if applicable and check only one box: Collateral is held in a Trust (see UCC1Ad, item 17 and Instructions) being acministered by a Decedent\u2019s Personal Representative\n\n \n\n6a. Check only if applicable and check only one box: 6b. Check only if applicable and check only one box:\n[1 Public-Finance Transaction [F] Manutactured-Home Transaction [[] A Debtor is a Transmitting Utility (71 Asricuttural Lien \u2014 [7] Non-uce Filing\n7. ALTERNATIVE DESIGNATION {if applicable): [_] Lessee/Lessor [_] consignee/Consignor L] seterBuyer Bailee/Bailor [L] Licenseeiticensor\n\n \n\n \n\n \n\n \n\n8. OPTIONAL FILER REFERENCE DATA:\n1116170\n\n \n\f",
+            "coordinates": {
+                "x1": 70.88639831542969,
+                "y1": 1898.912109375,
+                "x2": 1607.740966796875,
+                "y2": 2106.59619140625
+            }
+        },
+        {
+            "text": "THE ABOVE SPACE IS FOR FILING OFFICE USE ONLY\n\f",
+            "coordinates": {
+                "x1": 996.6337280273438,
+                "y1": 650.3973388671875,
+                "x2": 1533.854248046875,
+                "y2": 677.7296142578125
+            }
+        },
+        {
+            "text": "1. DEBTOR'S NAME: Provide only one Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\nname will not fit in line 1, leave all of item 1 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 93.33554077148438,
+                "y1": 688.96484375,
+                "x2": 1617.191650390625,
+                "y2": 736.9183349609375
+            }
+        },
+        {
+            "text": "   \n\na a oon\nname will not fit in line 1b, leave all of item 1 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC 1Ad)\n\n \n\n \n\n \n\n \n\n \n\n \n\n1a. ORGANIZATION'S NAME\n\n \n\n \n\n \n\n \n\noo 1o. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\nHUEBNER RICHIE HICKS\n1c. MAILING ADDRESS: CITY, STATE |POSTAL CODE COUNTRY\n12282 N RIGGS LEAD HILL AR | 72644 USA\n\n \n\f",
+            "coordinates": {
+                "x1": 105.54489135742188,
+                "y1": 706.3787231445312,
+                "x2": 1607.25146484375,
+                "y2": 945.5335083007812
+            }
+        },
+        {
+            "text": "JEBTOR'S NAME: Provide only one Debtor name (2a or 2b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\name will not fit in line 2b, leave all of item 2 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 156.88937377929688,
+                "y1": 955.4752197265625,
+                "x2": 1576.7679443359375,
+                "y2": 1003.7391967773438
+            }
+        },
+        {
+            "text": "name will not fit in line 2, leave all of Item 2 blank, check here LJ and provide the InaMaual Veodtor information tn item 19 of the Financing statement Addendum (rorm UCU TAd)\n\n \n\n \n \n   \n\n2a. ORGANIZATION'S NAME\n\nOR\n\n   \n \n \n \n\n   \n\n20. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\n\n \n\n \n\n   \n\n2c. MAILING ADDRESS: POSTAL CODE\n\n3. SECURED PARTY'S NAME jor NAME of ASSIGNEE of ASSIGNOR SECURED PARTY): Provide only one Secured Party name (3a or 3b)\n3a. ORGANIZATION'S NAME\n\nFIRST COMMUNITY BANK\n\n3b. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\n\n \n\n3c. MAILING ADDRESS TATE OSTAL CODE\nPO BOX 4330 BATESVILLE [ak |72503\n\neA ATCO,\n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 107.19349670410156,
+                "y1": 988.8585205078125,
+                "x2": 1612.692138671875,
+                "y2": 1455.531494140625
+            }
+        },
+        {
+            "text": "ems Me\n\n \n\nee eee\n\n \n\neee ee ane NL aM INS\n\n     \n\n \n\n \n \n  \n\n2a. ORGANIZATION'S NAME\n\n     \n \n \n \n\nOR\n\n20. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME\n\n   \n\nADDITIONAL NAME(S)/INITIAL(S)\n\n \n\n   \n\n2c. MAILING ADDRESS: POSTAL CODE\n\nnp CORIIDED DADTV'IC NIAMIC <n RAC 5. PO@IRNE\u2122 nb RCCIRRIAD OCAIIO\u201cCR DAOTAL o.\n\n \n\f",
+            "coordinates": {
+                "x1": 92.74794006347656,
+                "y1": 993.3704223632812,
+                "x2": 1607.9256591796875,
+                "y2": 1228.12353515625
+            }
+        },
+        {
+            "text": "4. COLLATERAL: This financing statement covers the following collateral:\n\n2023 MERCURY 250 HP MOTOR SN: 3B211291, PLUS ANY AND ALL PARTS, ATTACHMENTS OR ACCESSIONS\nTHERETO; WHETHER ANY OF THE FOREGOING IS OWNED NOW OR ACQUIRED LATER; ALL ACCESSIONS,\nADDITIONS, REPLACEMENTS, AND SUBSTITUTIONS RELATING TO ANY OF THE FOREGOING; ALL\n\nRECORDS OF ANY KIND RELATING TO ANY OF THE FOREGOING; ALL PROCEEDS RELATING TO ANY OF\nTHE FOREGOING (INCLUDING INSURANCE, GENERAL INTANGIBLES AND ACCOUNTS PROCEEDS)\n\f",
+            "coordinates": {
+                "x1": 103.49641418457031,
+                "y1": 1450.4088134765625,
+                "x2": 1609.616455078125,
+                "y2": 1641.5924072265625
+            }
+        },
+        {
+            "text": "RIGHT OF SETOFF. TO THE EXTENT PERMITTED BY APPLICABLE LA W, LENDER RESERVES A RIGHT OF\nSETOFF IN ALL GRANTOR'S ACCOUNTS WITH LENDER (WHETHER CHECKING, SAVINGS, OR SOME OTHER\nACCOUNT). THIS INCLUDES ALL ACCOUNTS GRANTOR HOLDS JOINTLY WITH SOMEONE ELSE AND ALL\nACCOUNTS GRANTOR MAY OPEN IN THE FUTURE.\n\f",
+            "coordinates": {
+                "x1": 107.19473266601562,
+                "y1": 1660.07373046875,
+                "x2": 1611.4456787109375,
+                "y2": 1793.2130126953125
+            }
+        }
+    ],
+    "block3": [
+        {
+            "text": "ucc FINANCING STATEMENT\n\f",
+            "coordinates": {
+                "x1": 99.94617462158203,
+                "y1": 241.6216278076172,
+                "x2": 545.3643188476562,
+                "y2": 283.0569152832031
+            }
+        },
+        {
+            "text": " \n\nOLLOW INSTRUCTIONS\n\n \n\nA. NAME & PHONE OF CONTACT AT FILER (optional)\n\n \n\n3. E-MAIL CONTACT AT FILER (optional)\n\n \n\n>. SEND ACKNOWLEDGMENT TO: (Name and Address)\n\n[__186l6 7\n\nFIRST COMMUNITY BANK\n1325 HARRISON ST\n| BATESVILLE, AR 72501 _|\n\n \n\nFiling ID :400002803775\nDocument ID :17503743001\n\nTUE ARNVE CDACFIC Ene FILING AEEIrcc lice oni\n\f",
+            "coordinates": {
+                "x1": 131.24896240234375,
+                "y1": 274.08172607421875,
+                "x2": 1481.3902587890625,
+                "y2": 662.4320068359375
+            }
+        },
+        {
+            "text": "Ja NAME & PHONE OF CONTACT AT FILER (optional)\n\f",
+            "coordinates": {
+                "x1": 104.97954559326172,
+                "y1": 316.4764404296875,
+                "x2": 602.03271484375,
+                "y2": 344.0076904296875
+            }
+        },
+        {
+            "text": "[2 E-MAIL CONTACT AT FILER (optional)\n\f",
+            "coordinates": {
+                "x1": 114.02577209472656,
+                "y1": 378.822265625,
+                "x2": 477.4582214355469,
+                "y2": 406.3689270019531
+            }
+        },
+        {
+            "text": "1. DEBTOR'S NAME: Provide only one Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\nname will not fit in line 1, leave all of item 1 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 106.69999694824219,
+                "y1": 689.8153076171875,
+                "x2": 1589.38427734375,
+                "y2": 736.3305053710938
+            }
+        },
+        {
+            "text": "Ce EU PONIES OPT SLR MCE TT CATT Beh OP CNA AEE AGN MOTE ET CARTNGS 5 AU) PIE UEEEEN PEROT OT CASTS CTY BOTY OE AE GREG S TIT) s I Cy Pan OE IIE AE OT\nname will not fit in line 2b, leave all of item 2 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\n2a. ORGANIZATION'S NAME\n\n \n \n  \n\n    \n\nOF FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S)\n\n   \n\n20. INDIVIDUAL'S SURNAME\n\n  \n \n \n   \n  \n\n \n\nPOSTAL CODE\n\n \n\n2c. MAILING ADDRESS:\n\n \n\n3. SECURED PARTY'S NAME jor NAME of ASSIGNEE of ASSIGNOR SECURED PARTY): Provide only one Secured Party name (3a or 3b)\n3a. ORGANIZATION'S NAME\n\nFIRST COMMUNITY BANK\n\n3c. MAILING ADDRESS CITY STATE |POSTAL CODE\nPO BOX 4330 TESVILLE R | 72503\n\n4, COLLATERAL: This financing statement covers the following collateral:\n\n   \n  \n \n\n \n\noe SUFFIX\n\n \n\nCOUNTRY\n\nUSA\n\n     \n\f",
+            "coordinates": {
+                "x1": 70.1695556640625,
+                "y1": 967.5108032226562,
+                "x2": 1615.1175537109375,
+                "y2": 1467.4249267578125
+            }
+        },
+        {
+            "text": "4, COLLATERAL: This financing statement covers the following collateral:\n\n2023 MERCURY 250 HP MOTOR SN: 3B211291, PLUS ANY AND ALL PARTS, ATTACHMENTS OR ACCESSIONS\nTHERETO; WHETHER ANY OF THE FOREGOING IS OWNED NOW OR ACQUIRED LATER; ALL ACCESSIONS,\nADDITIONS, REPLACEMENTS, AND SUBSTITUTIONS RELATING TO ANY OF THE FOREGOING; ALL\nRECORDS OF ANY KIND RELATING TO ANY OF THE FOREGOING; ALL PROCEEDS RELATING TO ANY OF\nTHE FOREGOING (INCLUDING INSURANCE, GENERAL INTANGIBLES AND ACCOUNTS PROCEEDS)\n\f",
+            "coordinates": {
+                "x1": 59.626522064208984,
+                "y1": 1456.5321044921875,
+                "x2": 1619.4385986328125,
+                "y2": 1629.6180419921875
+            }
+        },
+        {
+            "text": "RIGHT OF SETOFF. TO THE EXTENT PERMITTED BY APPLICABLE LA W, LENDER RESERVES A RIGHT OF\nSETOFF IN ALL GRANTOR'S ACCOUNTS WITH LENDER (WHETHER CHECKING, SAVINGS, OR SOME OTHER\nACCOUNT). THIS INCLUDES ALL ACCOUNTS GRANTOR HOLDS JOINTLY WITH SOMEONE ELSE AND ALL\nACCOUNTS GRANTOR MAY OPEN IN THE FUTURE.\n\f",
+            "coordinates": {
+                "x1": 101.14132690429688,
+                "y1": 1658.6175537109375,
+                "x2": 1585.3109130859375,
+                "y2": 1792.0166015625
+            }
+        },
+        {
+            "text": " \n\n5. Check only if applicable and check only one box: Collateral is held in a Trust (see UCC1Ad, item 17 and Instructions) being acministered by a Decedent\u2019s Personal Representative\n\n \n\n6a. Check only if applicable and check only one box: 6b. Check only if applicable and check only one box:\n[1 Public-Finance Transaction [F] Manutactured-Home Transaction [[] A Debtor is a Transmitting Utility (71 Asricuttural Lien \u2014 [7] Non-uce Filing\n7. ALTERNATIVE DESIGNATION {if applicable): [_] Lessee/Lessor [_] consignee/Consignor L] seterBuyer Bailee/Bailor [L] Licenseeiticensor\n\n \n\n \n\n \n\n \n\n8. OPTIONAL FILER REFERENCE DATA:\n1116170\n\f",
+            "coordinates": {
+                "x1": 56.472225189208984,
+                "y1": 1897.620849609375,
+                "x2": 1607.911376953125,
+                "y2": 2097.16162109375
+            }
+        },
+        {
+            "text": "Financing Statement - Initial\n\f",
+            "coordinates": {
+                "x1": 1145.9271240234375,
+                "y1": 198.78704833984375,
+                "x2": 1408.6837158203125,
+                "y2": 227.25997924804688
+            }
+        },
+        {
+            "text": "Date Fited:11/20/2023 9:37 AM\n\f",
+            "coordinates": {
+                "x1": 1045.341064453125,
+                "y1": 249.5615234375,
+                "x2": 1341.369140625,
+                "y2": 278.91778564453125
+            }
+        },
+        {
+            "text": "Page(s):1\n\f",
+            "coordinates": {
+                "x1": 1420.8140869140625,
+                "y1": 249.84402465820312,
+                "x2": 1512.1800537109375,
+                "y2": 280.16595458984375
+            }
+        },
+        {
+            "text": "Date Fited:11/20/2023 9:37 AM\n\f",
+            "coordinates": {
+                "x1": 1044.156494140625,
+                "y1": 251.45458984375,
+                "x2": 1345.0343017578125,
+                "y2": 280.2167663574219
+            }
+        },
+        {
+            "text": "THE ABOVE SPACE IS FOR FILING OFFICE USE ONLY\n\f",
+            "coordinates": {
+                "x1": 968.74072265625,
+                "y1": 650.0681762695312,
+                "x2": 1532.906494140625,
+                "y2": 679.221923828125
+            }
+        },
+        {
+            "text": " \n\n1. DEBTOR'S NAME: Provide only one Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\nname will not fit in line 1, leave all of item 1 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\n \n\n \n\n \n\n \n\n \n\n1a. ORGANIZATION'S NAME\n\n \n\n \n\noo 1o. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\nHUEBNER RICHIE HICKS\n1c. MAILING ADDRESS: CITY, STATE |POSTAL CODE COUNTRY\n12282 N RIGGS LEAD HILL AR | 72644 USA\n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 88.40215301513672,
+                "y1": 684.0377197265625,
+                "x2": 1612.04248046875,
+                "y2": 944.0086669921875
+            }
+        },
+        {
+            "text": "5 NAME: Provide only one Debtor name (2a or 2b) (use exact, full name; do not omit, modify, ot abbreviate any part of the Debtor's name); if any part of the Individual Debtor\u2019s\nfit in line 2b, leave all of item 2 blank, check here and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Aq)\n\n \n\n \n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 247.95880126953125,
+                "y1": 957.8197631835938,
+                "x2": 1593.671142578125,
+                "y2": 1000.1190795898438
+            }
+        },
+        {
+            "text": "RIGHT OF SETOFF. TO THE EXTENT PERMITTED BY APPLICABLE LA W, LENDER RESERVES A RIGHT OF\nSETOFF IN ALL GRANTOR'S ACCOUNTS WITH LENDER (WHETHER CHECKING, SAVINGS, OR SOME OTHER\nACCOUNT). THIS INCLUDES ALL ACCOUNTS GRANTOR HOLDS JOINTLY WITH SOMEONE ELSE AND ALL\nACCOUNTS GRANTOR MAY OPEN IN THE FUTURE.\n\f",
+            "coordinates": {
+                "x1": 126.50889587402344,
+                "y1": 1653.75390625,
+                "x2": 1602.1185302734375,
+                "y2": 1788.9493408203125
+            }
+        }
+    ],
+    "block4": [
+        {
+            "text": "\f",
+            "coordinates": {
+                "x1": 103.36337280273438,
+                "y1": 52.85366439819336,
+                "x2": 542.7222290039062,
+                "y2": 222.86753845214844
+            }
+        },
+        {
+            "text": "\f",
+            "coordinates": {
+                "x1": 113.86700439453125,
+                "y1": 61.962921142578125,
+                "x2": 521.3623046875,
+                "y2": 207.26071166992188
+            }
+        },
+        {
+            "text": "UCC FINANCING STATEMENT\n\nEO | OOM INS TRIICTIONS\n\f",
+            "coordinates": {
+                "x1": 102.11138153076172,
+                "y1": 245.74400329589844,
+                "x2": 530.6460571289062,
+                "y2": 291.0485534667969
+            }
+        },
+        {
+            "text": "[a NAME & PHONE OF CONTACT AT FILER (optional)\n\f",
+            "coordinates": {
+                "x1": 106.29232788085938,
+                "y1": 312.6025085449219,
+                "x2": 611.9157104492188,
+                "y2": 342.24017333984375
+            }
+        },
+        {
+            "text": " \n\nC. SEND ACKNOWLEDGMENT TO: (Name and Address)\nrm11&616\n\f",
+            "coordinates": {
+                "x1": 121.14196014404297,
+                "y1": 447.3724060058594,
+                "x2": 653.2152099609375,
+                "y2": 493.0365905761719
+            }
+        },
+        {
+            "text": "| 7118616\n\f",
+            "coordinates": {
+                "x1": 117.05614471435547,
+                "y1": 482.2690124511719,
+                "x2": 251.88742065429688,
+                "y2": 503.9188232421875
+            }
+        },
+        {
+            "text": "FIRST COMMUNITY BANK\n1325 HARRISON ST\nBATESVILLE, AR 72501\n\f",
+            "coordinates": {
+                "x1": 154.61065673828125,
+                "y1": 542.828125,
+                "x2": 525.3480834960938,
+                "y2": 632.5162963867188
+            }
+        },
+        {
+            "text": "12282 N RIGGS\n\f",
+            "coordinates": {
+                "x1": 116.66423034667969,
+                "y1": 899.8790893554688,
+                "x2": 387.658935546875,
+                "y2": 933.4537353515625
+            }
+        },
+        {
+            "text": "UT. MLA EPA. PIS TIICHIGING Stabe nit GOVETS IG TONGWITIE CONCHET ar.\n\n2023 MERCURY 250 HP MOTOR SN: 3B211291, PLUS ANY AND ALL PARTS, ATTACHMENTS OR ACCESSIONS\nTHERETO; WHETHER ANY OF THE FOREGOING IS OWNED NOW OR ACQUIRED LATER; ALL ACCESSIONS,\nADDITIONS, REPLACEMENTS, AND SUBSTITUTIONS RELATING TO ANY OF THE FOREGOING; ALL\nRECORDS OF ANY KIND RELATING TO ANY OF THE FOREGOING; ALL PROCEEDS RELATING TO ANY OF\nTHE FOREGOING (INCLUDING INSURANCE, GENERAL INTANGIBLES AND ACCOUNTS PROCEEDS)\n\f",
+            "coordinates": {
+                "x1": 37.72270584106445,
+                "y1": 1462.01611328125,
+                "x2": 1616.42822265625,
+                "y2": 1631.9625244140625
+            }
+        },
+        {
+            "text": "RIGHT OF SETOFF. TO THE EXTENT PERMITTED BY APPLICABLE LA W, LENDER RESERVES A RIGHT OF\nSETOFF IN ALL GRANTOR'S ACCOUNTS WITH LENDER (WHETHER CHECKING, SAVINGS, OR SOME OTHER\nACCOUNT). THIS INCLUDES ALL ACCOUNTS GRANTOR HOLDS JOINTLY WITH SOMEONE ELSE AND ALL\nACCOUNTS GRANTOR MAY OPEN IN THE FUTURE.\n\f",
+            "coordinates": {
+                "x1": 54.48678207397461,
+                "y1": 1648.7479248046875,
+                "x2": 1576.9268798828125,
+                "y2": 1779.123046875
+            }
+        },
+        {
+            "text": "BEERS TE CARINS ICA\n\nFILING OFFICE COPY \u2014 UCC FINANCING STATEMENT (Form UCC1) (Rev. 04/20/11)\n\f",
+            "coordinates": {
+                "x1": 94.13630676269531,
+                "y1": 2130.3525390625,
+                "x2": 1087.1802978515625,
+                "y2": 2154.1826171875
+            }
+        },
+        {
+            "text": "- Arkansas Secretary of State\n\nBusiness and Commercial Services Division\n\f",
+            "coordinates": {
+                "x1": 1177.422607421875,
+                "y1": 87.05241394042969,
+                "x2": 1524.880615234375,
+                "y2": 141.85987854003906
+            }
+        },
+        {
+            "text": "\f",
+            "coordinates": {
+                "x1": 1061.4130859375,
+                "y1": 164.52401733398438,
+                "x2": 1528.892578125,
+                "y2": 170.3173065185547
+            }
+        },
+        {
+            "text": "Financing Statement - Initial\n\f",
+            "coordinates": {
+                "x1": 1144.46240234375,
+                "y1": 204.4302215576172,
+                "x2": 1405.48095703125,
+                "y2": 221.5444793701172
+            }
+        },
+        {
+            "text": "Page(s):1\n\f",
+            "coordinates": {
+                "x1": 1424.258544921875,
+                "y1": 253.9546356201172,
+                "x2": 1512.5731201171875,
+                "y2": 274.0374450683594
+            }
+        },
+        {
+            "text": "Date Filed:11/20/2023 9:37 AM\n\f",
+            "coordinates": {
+                "x1": 1055.5550537109375,
+                "y1": 255.38272094726562,
+                "x2": 1349.8924560546875,
+                "y2": 273.3586730957031
+            }
+        },
+        {
+            "text": "ate Fited: 11/20/2023 9:37 AM Page(s):1\n\nFiling ID :4000028037756\nDocument ID :17503743001\n\f",
+            "coordinates": {
+                "x1": 1075.695556640625,
+                "y1": 256.8658447265625,
+                "x2": 1507.880859375,
+                "y2": 351.2537536621094
+            }
+        },
+        {
+            "text": "Filing ID :4000028037756\nDocument ID :17503743001\n\f",
+            "coordinates": {
+                "x1": 1211.055908203125,
+                "y1": 302.252685546875,
+                "x2": 1509.2314453125,
+                "y2": 344.3026428222656
+            }
+        },
+        {
+            "text": "THE ABOVE SPACE IS FOR FILING OFFICE USE ONLY\n\f",
+            "coordinates": {
+                "x1": 948.67333984375,
+                "y1": 653.4140625,
+                "x2": 1537.556640625,
+                "y2": 675.8087768554688
+            }
+        },
+        {
+            "text": ". DEBTOR'S NAME: Provide only one Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's\nname will not fit in line 1b, leave all of item 1 blank, check here [\u2014] and provide the Individual Debtor information in item 10 of the Financing Statement Addendum (Form UCC1Ad)\n\f",
+            "coordinates": {
+                "x1": 128.77975463867188,
+                "y1": 689.5574951171875,
+                "x2": 1581.5640869140625,
+                "y2": 732.909912109375
+            }
+        },
+        {
+            "text": "\f",
+            "coordinates": {
+                "x1": 778.6072998046875,
+                "y1": 899.252197265625,
+                "x2": 973.8834228515625,
+                "y2": 932.762939453125
+            }
+        },
+        {
+            "text": "Y name (2a or 2b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor\u2019s name); if any part of the Individual Debtor\u2019s:\nnk, check here Td and provide the Individual Debtor information in item 19 of the Financing Statement Addendum (Form UCC1Ad)\n\f",
+            "coordinates": {
+                "x1": 518.287109375,
+                "y1": 956.9197387695312,
+                "x2": 1582.161376953125,
+                "y2": 997.9528198242188
+            }
+        },
+        {
+            "text": " \n\nTION'S NAME\n\n \n\n'S SURNAME FIRST PERSONAL NAME ADDITIONAL NAME(S)/INITIAL(S) SUFFIX\n\n \n\nFSS CITY STATE |POSTAL CODE COUNTRY\n\n \n\n \n\f",
+            "coordinates": {
+                "x1": 279.5491638183594,
+                "y1": 1019.4196166992188,
+                "x2": 1624.963623046875,
+                "y2": 1200.1602783203125
+            }
+        },
+        {
+            "text": " \n\nInternational Association of Commercial Administrators (IACA)\n\nIR Ra. Se. nsantiaay\n\n \n\f",
+            "coordinates": {
+                "x1": 739.659423828125,
+                "y1": 2113.083984375,
+                "x2": 1595.9140625,
+                "y2": 2137.630126953125
+            }
+        }
+    ]
+}

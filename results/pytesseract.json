@@ -1,0 +1,14 @@
+{
+    "filing_id": "4000028037756",
+    "document_id": "17503743001",
+    "bank_name": null,
+    "debtor": {
+        "name": "HUEBNER RICHIE HICKS",
+        "address": null
+    },
+    "secured_party": {
+        "name": "FIRST COMMUNITY BANK",
+        "address": "CITY STATE |POSTAL CODE COUNTRY"
+    },
+    "collateral": "This financing statement covers the following collateral:"
+}

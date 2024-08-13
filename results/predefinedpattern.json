@@ -1,0 +1,56 @@
+{
+    "Filing_ID": "4000028037756",
+    "Date_Filed": "11/20/2023 9:37 AM P",
+    "Contact": {},
+    "Document_ID": "17503743001",
+    "Acknowledgment_To": {
+        "Address": "118616\nFIRST COMMUNITY BANK\n1325 HARRISON ST\nI BATESVILLE"
+    },
+    "Effectiveness_Terminated": false,
+    "Party_Information_Change": {
+        "Current_Record_Information": {
+            "Organization_Name": null,
+            "Individual_Name": {
+                "Surname": null,
+                "First_Name": null,
+                "Additional_Name": null,
+                "Suffix": null
+            }
+        },
+        "Changed_Or_Added_Information": {
+            "Organization_Name": null,
+            "Individual_Name": {
+                "Surname": null,
+                "First_Name": null,
+                "Additional_Name": null,
+                "Suffix": null
+            },
+            "Mailing_Address": {
+                "Street": null,
+                "City": null,
+                "State": null,
+                "Postal_Code": null,
+                "Country": null
+            }
+        }
+    },
+    "Collateral_Change": {
+        "Add_Collateral": false,
+        "Delete_Collateral": false,
+        "Restate_Collateral": false,
+        "Assign_Collateral": false
+    },
+    "Secured_Party_Of_Record_Authorizing": {
+        "Individual_Name": {
+            "Surname": null,
+            "First_Name": null,
+            "Additional_Name": null,
+            "Suffix": null
+        }
+    },
+    "Collateral": [
+        {
+            "Description": "is held in a Trust ( see UCC1Ad. item 17 and Instructions being administerec by a Decedent's Personal Representative\n6a. Check only if applicable and check only one box 6b. Check only if applicable and check only one box\nPublic Finance Transactior Manufactured Home Transaction | | Debtor is a Transmitting Utility Agricultural Lien Nor UCO Filing\n7. ALTERNATIVE DESIGNATION (if applicable Lessee/Lessor Consignee/Consignor Seller/Buyer Bailee/Bailor Licensee/Licensor\n8 OPTIONAL FILER REFERENCE DATA\n1116170\nInternational Association of Commercial Administrators (IACA\nFILING OFFICE COPY I UCO FINANCI ING STATEMENT Form UCC Rev 04/20/11"
+        }
+    ]
+}
