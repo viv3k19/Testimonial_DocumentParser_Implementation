@@ -9,7 +9,6 @@ This project provides a Python script to parse and extract structured data from 
   - [Run the Script](#run-the-script)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
-- 
 ## Installation
 
 To use this script, you need to install the following dependencies:
