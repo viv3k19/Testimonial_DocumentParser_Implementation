@@ -18,7 +18,7 @@ This project provides a Python-based implementation of a document parser using t
 
 To use this script, you'll need to install the following dependencies:
 
-```bash
+```python
 pip install ocr-nanonets-wrapper
 ```
 The script relies on the ocr-nanonets-wrapper package, which interfaces with the Nanonets OCR API.
@@ -37,7 +37,7 @@ model.set_token('your-api-key-here')
 ### Converting PDF/Image to String
 You can convert PDF or image files to text strings using the convert_to_string method:
 
-```bash
+```python
 string1 = model.convert_to_string('/path/to/your/file.tiff')
 print(string1)
 ```
@@ -48,14 +48,14 @@ Default: Plain text output.
 Lines: Retains line breaks.
 None: Removes any formatting.
 
-```bash
+```python
 string2 = model.convert_to_string('/path/to/your/file.tiff', formatting='lines')
 print(string2)
 ```
 ### Extracting Data
 The script uses regular expressions to dynamically extract key information from the text. The patterns for extraction are defined in the patterns dictionary:
 
-```bash
+```python
 patterns = {
     'filing_id': r'Filing\s+ID\s*[:\-]?\s*(\d+)',
     # Add other patterns here...
@@ -63,20 +63,20 @@ patterns = {
 ```
 You can extract data using the extract_data function:
 
-```bash
+```python
 extracted_data = extract_data(string2, patterns)
 ```
 
 ### Building JSON Structure
 After extracting the data, the script structures it into a JSON format using the build_json_structure function:
 
-```bash
+```python
 json_data = build_json_structure(extracted_data)
 ```
 
 Finally, you can convert the structured data into a JSON string:
 
-```bash
+```python
 json_output = json.dumps(json_data, indent=4)
 print(json_output)
 ```
