@@ -11,6 +11,7 @@ This project demonstrates how to use OpenParse, a document parsing library, to e
   - [Metadata Parsing](#metadata-parsing)
   - [Advanced Parsing for Combined Data](#advanced-parsing-for-combined-data)
 - [Customization](#customization)
+- [Limitations](#limitations)
 - [Conclusion](#conclusion)
 
 ## Installation
@@ -140,6 +141,9 @@ doc.model_dump()
 ```
 ## Customization
 You can customize the document parsing process by modifying the parsing algorithms and processing pipelines according to your specific requirements.
+
+## Limitations
+Reliance on specific PDF structures, which may lead to incomplete data extraction and misinterpretation of complex tables. Processing large documents can be slow and resource-intensive, while the custom pipeline requires a deep understanding of OpenParse, making it prone to configuration errors. Limited support for non-English text may affect OCR accuracy, and compatibility issues with external libraries can arise. Additionally, the notebook lacks robust error handling, basic visualization capabilities may not suffice for detailed inspections, and scalability for batch processing is challenging. Lastly, limited documentation and community support for OpenParse may complicate troubleshooting and customization efforts.
 
 ## Conclusion
 This project provides a comprehensive approach to parsing and extracting data from PDF documents using OpenParse. 
