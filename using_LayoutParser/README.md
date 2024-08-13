@@ -14,7 +14,7 @@ This project provides a Python-based implementation of a document parser using t
   - [Printing the Text](#printing-the-text)
   - [Converting Text Blocks to JSON](#converting-text-blocks-to-json)
 - [Limitations](#limitations)
-
+- [Conclusion](#conclusion)
 ## Installation
 
 To use this script, you'll need to install the following dependencies:
