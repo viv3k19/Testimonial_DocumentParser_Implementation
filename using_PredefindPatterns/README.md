@@ -1,6 +1,6 @@
 # DocumentParser_using_PredefinedPatterns(Nanonets)
 
-This project provides a Python-based implementation of a document parser using the Nanonets OCR API. The script extracts and structures data from PDF or image files into JSON format, utilizing predefined dynamic patterns for key fields.
+This notebook provides a Python-based implementation of a document parser using the Nanonets OCR API. The script extracts and structures data from PDF or image files into JSON format, utilizing predefined dynamic patterns for key fields.
 
 ## Table of Contents
 
