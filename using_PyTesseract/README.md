@@ -1,6 +1,6 @@
 # DocumentParser_using_PyTesseract
 
-This project provides a Python script to parse and extract structured data from an image using the `pytesseract` library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
+This notebook provides a Python script to parse and extract structured data from an image using the `pytesseract` library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
 
 - [Installation](#installation)
 - [Usage](#usage)
