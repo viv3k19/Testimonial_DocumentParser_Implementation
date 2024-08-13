@@ -13,6 +13,27 @@ This project provides a Python-based implementation of a document parser using t
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
 
+
+## Features
+✅ Completely local, no external APIs  \
+✅ Fits in a T4 GPU \
+✅ Supports ~20 file types  \
+✅ Convert documents, multimedia, and web pages to high-quality structured markdown  \
+✅ Table extraction, image extraction/captioning, audio/video transcription, web page crawling  \
+✅ Easily deployable using Docker and Skypilot  \
+✅ Colab friendly  \
+✅ Interative UI powered by Gradio  
+
+## Supported Data Types
+
+| Type      | Supported Extensions                                |
+|-----------|-----------------------------------------------------|
+| Documents | .doc, .docx, .pdf, .ppt, .pptx                      |
+| Images    | .png, .jpg, .jpeg, .tiff, .bmp, .heic               |
+| Video     | .mp4, .mkv, .avi, .mov                              |
+| Audio     | .mp3, .wav, .aac                                    |
+| Web       | dynamic webpages, http://<anything>.com             |
+
 ## Installation
 
 To use this script, you'll need to install the following dependencies:
@@ -153,6 +174,7 @@ Start the server:
 ## Limitations
 Resource Intensive: The setup requires a significant amount of resources, including specific software and configurations, which may not be straightforward on all machines.
 Cloudflare/Localtunnel Issues: There might be issues when setting up tunnels with Cloudflare or Localtunnel, which could affect accessibility.
+There is a need for a GPU with 8~10 GB minimum VRAM as we are using deep learning models.
 ## Conclusion
 This project provides a comprehensive setup for using OmniParse in a cloud-based environment like Colab. 
 By following the steps outlined in this guide, you can successfully install dependencies, set up the server, and expose it through tunneling services for easy access and testing.
