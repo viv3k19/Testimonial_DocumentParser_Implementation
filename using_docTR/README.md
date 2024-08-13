@@ -70,7 +70,7 @@ predictor = ocr_predictor(pretrained=True)
 print(predictor)
 ```
 ## Usage
-Basic Inference
+### Basic Inference
 To perform OCR on a document:
 
 Run the predictor on the document:
@@ -87,7 +87,7 @@ Visualize the results:
 synthetic_pages = result.synthesize()
 plt.imshow(synthetic_pages[0]); plt.axis('off'); plt.show()
 ```
-Exporting Results
+### Exporting Results
 To export the OCR results in JSON format:
 ```python
 json_export = result.export()
