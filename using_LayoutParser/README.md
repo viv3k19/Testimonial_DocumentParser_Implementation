@@ -1,6 +1,6 @@
 # DocumentParser_using_LayoutParser
 
-This project provides a Python-based implementation of a document parser using the LayoutParser library. The script leverages deep learning models to detect and extract structured data from PDF or image files, converting them into JSON format.
+This notebook provides a Python-based implementation of a document parser using the LayoutParser library. The script leverages deep learning models to detect and extract structured data from PDF or image files, converting them into JSON format.
 
 ## Table of Contents
 
