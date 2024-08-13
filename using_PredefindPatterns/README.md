@@ -13,7 +13,7 @@ This project provides a Python-based implementation of a document parser using t
   - [Building JSON Structure](#building-json-structure)
 - [Input Formats](#input-formats)
 - [Limitations](#limitations)
-
+- [Conclusion](#conclusion)
 ## Installation
 
 To use this script, you'll need to install the following dependencies:
@@ -84,7 +84,7 @@ print(json_output)
 ## Input Formats
 Supported Formats: The script supports TIFF, PNG, JPEG, and PDF formats.
 OCR Requirements: The input file must contain recognizable text for OCR to extract information.
-Limitations
+## Limitations
 Pattern Sensitivity: The predefined patterns are designed for specific document layouts. They may not work effectively for different layouts or documents with varying structures.
 OCR Accuracy: The quality of the OCR output depends on the clarity of the input image. Blurry or low-resolution images may result in inaccurate text extraction.
 API Limitations: The Nanonets API may have rate limits or other usage restrictions depending on your subscription plan.
