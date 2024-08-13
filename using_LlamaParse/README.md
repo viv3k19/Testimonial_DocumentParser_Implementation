@@ -1,6 +1,6 @@
 # Document Parser Using LlamaParse
 
-This project demonstrates how to use **LlamaParse**, a document parsing library, to extract text and images from PDF files. It leverages Anthropic APIs for embedding and multimodal processing.
+This notebook demonstrates how to use **LlamaParse**, a document parsing library, to extract text and images from PDF files. It leverages Anthropic APIs for embedding and multimodal processing.
 
 ## Table of Contents
 
