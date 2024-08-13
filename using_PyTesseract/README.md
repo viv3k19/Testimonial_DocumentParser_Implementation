@@ -36,7 +36,7 @@ The parse_document function takes the path of an image file as input and perform
 Specify the path to your image file and call the parse_document function to extract and print the structured data in JSON format.
 ```python
 # Path to the image file
-image_path = '/content/4000028037756.tiff'
+image_path = 'your_image_here'
 
 # Parse the document and print the result
 parsed_data = parse_document(image_path)
