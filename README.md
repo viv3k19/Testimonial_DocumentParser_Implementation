@@ -6,6 +6,10 @@ The repository contains open-source use cases for image and document parsing, in
 
 This repository contains various Jupyter notebooks demonstrating different approaches to document parsing. Each notebook showcases a unique method or library, highlighting its strengths and potential use cases. These notebooks are part of my research experiments conducted during the implementation phase.
 
+I have implemented a document parser, beginning with extensive research into various open-source tools and libraries. My exploration led me to discover resources such as OmniParse, OpenParse, LlamaParse, Nanonets, DocTR, Tesseract, Tesseract OCR, EasyOCR, OCRmyPDF, PyTesseract, Keras-OCR, PyPDF, PyMuPDF, PDFMiner, and Detectron2. Additionally, I experimented with Llama API and Anthropic API, ultimately consolidating all findings into a single repository. This repository includes notebooks and a README file to provide clear guidance on implementation.
+
+Despite the thorough research conducted, I have encountered challenges in achieving effective parsing from noisy images and PDFs. I remain committed to this endeavor, and the latest 2024-synced repository is accessible for review.
+
 1. **Document Parsing using docTR**  
    This project provides a Python-based implementation of a document parser using the docTR library. The script is designed to run in a Colab environment and facilitates Optical Character Recognition (OCR) by leveraging docTR's capabilities with either TensorFlow or PyTorch backends.
 
@@ -27,3 +31,19 @@ This repository contains various Jupyter notebooks demonstrating different appro
 7. **Document Parsing using PyTesseract**  
    This notebook provides a Python script to parse and extract structured data from an image using the pytesseract library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
 
+## Edgecases 
+- Varied Layouts
+- Noisy Backgrounds
+- Mixed Font Styles and Sizes
+- Low-Quality Scans
+- Handwritten Text
+- Complex Tables
+- Language and Character Set Variability
+- Embedded Graphics and Charts
+- Incorrect Document Orientation
+- Inconsistent Terminology
+- Variable Page Sizes
+- Missing Data
+- Dynamic Content
+- Noise in Input Data
+- Overlapping Text
