@@ -29,23 +29,23 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 
 
 
-|  Edgecases                                                                   |  Testcases                                                        |
-|------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------|
-| - Varied Layouts                                                             | - Layout - blockwise extraction                                   |----------------------------------------------------------------|
-| - Noisy Backgrounds                                                          | - Metadata extraction                                             |----------------------------------------------------------------|
-| - Mixed Font Styles and Sizes                                                | - RegEx based extraction                                          |----------------------------------------------------------------|
-| - Low-Quality Scans                                                          | - OCR based extraction                                            |----------------------------------------------------------------|
-| - Handwritten Text                                                           | - API based extraction                                            |----------------------------------------------------------------|
-| - Complex Tables                                                             | - Pattern based extraction                                        |----------------------------------------------------------------|
-| - Language and Character Set Variability                                     | - NER based extraction                                            |----------------------------------------------------------------|
-| - Embedded Graphics and Charts                                               | - LLM based extraction                                            |----------------------------------------------------------------|
-| - Incorrect Document Orientation                                             | - Predefined python based extraction                              |----------------------------------------------------------------|
-| - Inconsistent Terminology                                                   |                                                                   |----------------------------------------------------------------|
-| - Variable Page Sizes                                                        |                                                                   |----------------------------------------------------------------|
-| - Missing Data                                                               |                                                                   |----------------------------------------------------------------|
-| - Dynamic Content                                                            |                                                                   |----------------------------------------------------------------|
-| - Noise in Input Data                                                        |                                                                   |----------------------------------------------------------------|
-| - Overlapping Text                                                           |                                                                   |----------------------------------------------------------------|
+|  Edgecases                                                                   |  Testcases                                                                   |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| - Varied Layouts                                                             | - Layout - blockwise extraction                                              |
+| - Noisy Backgrounds                                                          | - Metadata extraction                                                        |
+| - Mixed Font Styles and Sizes                                                | - RegEx based extraction                                                     |
+| - Low-Quality Scans                                                          | - OCR based extraction                                                       |
+| - Handwritten Text                                                           | - API based extraction                                                       |
+| - Complex Tables                                                             | - Pattern based extraction                                                   |
+| - Language and Character Set Variability                                     | - NER based extraction                                                       |
+| - Embedded Graphics and Charts                                               | - LLM based extraction                                                       |
+| - Incorrect Document Orientation                                             | - Predefined python based extraction                                         |
+| - Inconsistent Terminology                                                   |                                                                              |
+| - Variable Page Sizes                                                        |                                                                              |
+| - Missing Data                                                               |                                                                              |
+| - Dynamic Content                                                            |                                                                              |
+| - Noise in Input Data                                                        |                                                                              |
+| - Overlapping Text                                                           |                                                                              |
 
 
 ## Contact
