@@ -5,7 +5,7 @@ The repository contains open-source use cases for image and document parsing, in
 ## Research & Experiment List
 
 This repository contains various Jupyter notebooks demonstrating different approaches to document parsing. Each notebook showcases a unique method or library, highlighting its strengths and potential use cases. These notebooks are part of my research experiments conducted during the implementation phase.
-![LOGO](docs/images/docTR.png)
+![LOGO](docs/images/docTR.png =250x )
 1. **Document Parsing using docTR**  
    This project provides a Python-based implementation of a document parser using the docTR library. The script is designed to run in a Colab environment and facilitates Optical Character Recognition (OCR) by leveraging docTR's capabilities with either TensorFlow or PyTorch backends.
 ![LOGO](docs/images/layoutparser.png)
