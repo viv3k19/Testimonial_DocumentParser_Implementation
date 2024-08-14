@@ -1,11 +1,7 @@
 # Testimonial_DocumentParser_Implementation
-The repository contains open-source use cases for image and document parsing, including example notebooks and various techniques for parsing data into JSON, CSV, text, Markdown, and more.
-
+TThis repository contains various Jupyter notebooks demonstrating different approaches to document parsing. Each notebook showcases a unique method or library, highlighting its strengths and potential use cases. These notebooks are part of my research experiments conducted during the implementation phase.
 
 ## Research & Experiment List
-
-This repository contains various Jupyter notebooks demonstrating different approaches to document parsing. Each notebook showcases a unique method or library, highlighting its strengths and potential use cases. These notebooks are part of my research experiments conducted during the implementation phase.
-
 I have implemented a document parser, beginning with extensive research into various open-source tools and libraries. My exploration led me to discover resources such as OmniParse, OpenParse, LlamaParse, Nanonets, DocTR, Tesseract, Tesseract OCR, EasyOCR, OCRmyPDF, PyTesseract, Keras-OCR, PyPDF, PyMuPDF, PDFMiner, and Detectron2. Additionally, I experimented with Llama API and Anthropic API, ultimately consolidating all findings into a single repository. This repository includes notebooks and a README file to provide clear guidance on implementation.
 
 Despite the thorough research conducted, I have encountered challenges in achieving effective parsing from noisy images and PDFs. I remain committed to this endeavor, and the latest 2024-synced repository is accessible for review.
@@ -60,3 +56,6 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 - NER based extraction
 - LLM based extraction
 - Predefined python based extraction
+
+## Contact
+* Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
