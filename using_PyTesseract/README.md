@@ -1,27 +1,109 @@
 # DocumentParser_using_PyTesseract
 
-This notebook provides a Python script to parse and extract structured data from an image using the `pytesseract` library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
+This notebook provides a Python-based implementation of a document parser using the PyTesseract OCR library. The script extracts and structures data from PDF or image files into JSON format, utilizing various image processing techniques and Natural Language Processing (NLP) for enhanced accuracy.
+
+## Table of Contents
 
 - [Installation](#installation)
+- [Setup](#setup)
 - [Usage](#usage)
-  - [Import Required Libraries](#import-required-ibraries)
-  - [Parse Document Function](#parse-document-function)
-  - [Run the Script](#run-the-script)
+  - [Document Parsing](#document-parsing)
+  - [Named Entity Recognition (NER)](#named-entity-recognition-ner)
+  - [Transformers Integration](#transformers-integration)
+  - [Image Processing](#image-processing)
+- [Input Formats](#input-formats)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
+
 ## Installation
 
-To use this script, you need to install the following dependencies:
+To use this script, you'll need to install the following dependencies:
 
 ```python
-pip install pytesseract
+pip install pytesseract opencv-python spacy transformers
 sudo apt install tesseract-ocr
+python -m spacy download en_core_web_sm
 ```
 ## Usage
-### Import Required Libraries:
+### Document Parsing
+You can parse an image document using the parse_document function. This function opens an image, extracts text using PyTesseract, and utilizes regular expressions to extract key information.
+```python
+image_path = '/content/your_image_file.tiff'
+parsed_data = parse_document(image_path)
+print(json.dumps(parsed_data, indent=4))
+```
+### Named Entity Recognition (NER)
+The script incorporates SpaCy for Named Entity Recognition (NER) to enhance the extraction of relevant entities from the text.
 
-The script imports pytesseract, PIL (for image processing), re (for regular expressions), and json (for formatting output).
+You can extract entities using the extract_entities function, which processes the text with SpaCy:
+```python
+ner_data = extract_entities(text)
+```
+### Transformers Integration
+You can also utilize transformers for advanced NER capabilities. The script initializes a text extraction pipeline using Hugging Face transformers:
+```python
+ner_pipeline = pipeline('ner')
+```
+### Image Processing
+The image processing section employs OpenCV to preprocess images for better OCR performance. This includes resizing, thresholding, and morphological transformations.
 
+```python
+def preprocess_image(image_path):
+    # Load image
+    img = cv2.imread(image_path)
+
+    # Convert to grayscale
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+
+    # Apply thresholding
+    _, thresh = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY_INV)
+
+    # Remove noise
+    denoised = cv2.fastNlMeansDenoising(thresh, h=30)
+
+    return denoised
+
+#Define text extraction function
+def extract_text(image):
+    # Perform OCR using Tesseract
+    text = pytesseract.image_to_string(image, lang='eng')
+    return text
+
+#Define entity extraction function
+def extract_entities(text):
+    # Use spaCy or transformer model for NER
+    doc = nlp(text)
+    entities = [(ent.text, ent.label_) for ent in doc.ents]
+
+    # Further classify using transformers
+    results = ner_pipeline(text)
+
+    return entities, results
+
+#Define function to structure data into JSON
+def structure_data(entities):
+    # Structure entities into a dynamic JSON format
+    structured_data = {}
+
+    for entity, label in entities:
+        structured_data[label] = entity
+
+    return structured_data
+
+#Define main processing function
+def process_images(file_list):
+    final_results = []
+
+    for file in file_list:
+        preprocessed_image = preprocess_image(file)
+        extracted_text = extract_text(preprocessed_image)
+        entities, results = extract_entities(extracted_text)
+        structured_output = structure_data(entities)
+
+        final_results.append(structured_output)
+
+    return final_results
+```
 ### Parse Document Function:
 
 The parse_document function takes the path of an image file as input and performs the following steps:
@@ -41,9 +123,14 @@ image_path = 'your_image_here'
 parsed_data = parse_document(image_path)
 print(json.dumps(parsed_data, indent=4))
 ``` 
+## Input Formats
+- Supported Formats: The script supports TIFF, PNG, JPEG, and PDF formats.
+
+- OCR Requirements: The input file must contain recognizable text for OCR to extract information.
+
 ## Limitations
-OCR Accuracy: The quality of the extracted text is highly dependent on the clarity and resolution of the input image.
-Regular Expression Matching: The script uses predefined regular expressions, which may not generalize well to documents with different formats or layouts.
+Pattern Sensitivity: The regular expressions used for data extraction are tailored for specific document layouts and may not generalize well across different layouts or documents.
+OCR Accuracy: The quality of the OCR output is highly dependent on the clarity of the input image. Blurry or low-resolution images may yield inaccurate text extraction.
+Library Limitations: Ensure that your environment meets the library requirements and configurations.
 ## Conclusion
-This project demonstrates how to use pytesseract in combination with regular expressions to parse and structure information from images. 
-The output JSON format makes the extracted data easy to work with for further processing or analysis.
+This project provides a flexible solution for parsing documents and converting them into structured JSON formats using PyTesseract, SpaCy, and transformers. While the implementation is designed for specific document types, it can be adapted to suit different needs by modifying the extraction patterns and processing techniques.
