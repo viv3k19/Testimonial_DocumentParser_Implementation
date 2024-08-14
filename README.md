@@ -10,26 +10,28 @@ I have implemented a document parser, beginning with extensive research into var
 
 Despite the thorough research conducted, I have encountered challenges in achieving effective parsing from noisy images and PDFs. I remain committed to this endeavor, and the latest 2024-synced repository is accessible for review.
 
-1. **Document Parsing using docTR**  
-   This project provides a Python-based implementation of a document parser using the docTR library. The script is designed to run in a Colab environment and facilitates Optical Character Recognition (OCR) by leveraging docTR's capabilities with either TensorFlow or PyTorch backends.
+1. **Document Parsing using PyTesseract**  [a relative link](using_PyTesseract)
+   This notebook provides a Python script to parse and extract structured data from an image using the pytesseract library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
 
-2. **Document Parsing using LayoutParser**  
-   This notebook provides a Python-based implementation of a document parser using the LayoutParser library. The script leverages deep learning models to detect and extract structured data from PDF or image files, converting them into JSON format.
-
-3. **Document Parsing using OmniParse**  
+2. **Document Parsing using OmniParse**  
    This project provides a Python-based implementation of a document parser using the OmniParse library. The script is designed to run in a Colab environment and automates the setup process for working with OmniParse, enabling users to extract structured data from documents.
 
-4. **Document Parsing using LlamaParse**  
+3. **Document Parsing using LlamaParse**  
    This notebook demonstrates how to use LlamaParse, a document parsing library, to extract text and images from PDF files. It leverages Anthropic APIs for embedding and multimodal processing.
 
-5. **Document Parsing using OpenParse**  
-   This notebook demonstrates how to use OpenParse, a document parsing library, to extract and process various elements from PDF files. The notebook covers basic document parsing, table data extraction, metadata extraction, and advanced parsing with custom processing steps.
+4. **Document Parsing using docTR**  
+   This project provides a Python-based implementation of a document parser using the docTR library. The script is designed to run in a Colab environment and facilitates Optical Character Recognition (OCR) by leveraging docTR's capabilities with either TensorFlow or PyTorch backends.
+
+5. **Document Parsing using LayoutParser**  
+   This notebook provides a Python-based implementation of a document parser using the LayoutParser library. The script leverages deep learning models to detect and extract structured data from PDF or image files, converting them into JSON format.
 
 6. **Document Parsing using PredefinedPatterns**  
    This notebook provides a Python-based implementation of a document parser using the Nanonets OCR API. The script extracts and structures data from PDF or image files into JSON format, utilizing predefined dynamic patterns for key fields.
 
-7. **Document Parsing using PyTesseract**  
-   This notebook provides a Python script to parse and extract structured data from an image using the pytesseract library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
+7. **Document Parsing using OpenParse**  
+   This notebook demonstrates how to use OpenParse, a document parsing library, to extract and process various elements from PDF files. The notebook covers basic document parsing, table data extraction, metadata extraction, and advanced parsing with custom processing steps.
+
+
 
 ## Edgecases 
 - Varied Layouts
