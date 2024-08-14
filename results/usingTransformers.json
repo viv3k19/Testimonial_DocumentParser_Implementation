@@ -1,0 +1,72 @@
+[
+    {
+        "CARDINAL": "8",
+        "ORG": "FILING OFFICE COPY",
+        "WORK_OF_ART": "Cee Ur Rea",
+        "TIME": "1/20/2023 9:37 AM Page(s):1\n",
+        "PERSON": "Lessee",
+        "PRODUCT": "Me Etta",
+        "FAC": "Mee Pelco CITY STATE",
+        "DATE": "1116170",
+        "GPE": "UCC1Ad",
+        "EVENT": "the Financing Statement Addendum",
+        "ORDINAL": "FIRST"
+    },
+    {
+        "CARDINAL": "8",
+        "ORG": "FILING OFFICE COPY",
+        "WORK_OF_ART": "Cee Ur Rea",
+        "DATE": "2710",
+        "PRODUCT": "Me Etta",
+        "PERSON": "PYAR RIL YL",
+        "ORDINAL": "FIRST",
+        "EVENT": "the Financing Statement Addendum",
+        "TIME": "6400 NW 86TH",
+        "GPE": "UCC1Ad"
+    },
+    {
+        "ORG": "MES",
+        "LAW": "ARTICLE 9 OF THE UNIFORM",
+        "CARDINAL": "only one",
+        "WORK_OF_ART": "Cee Ur Rea",
+        "PERSON": "Reiceeenen L",
+        "DATE": "12A",
+        "FAC": "Document",
+        "PRODUCT": "Me Etta",
+        "ORDINAL": "FIRST",
+        "LOC": "WEST END",
+        "GPE": "UCC1Ad"
+    }
+    {
+        "PERSON": "Bailee",
+        "ORG": "FILING OFFICE COPY",
+        "TIME": "11/20/2023 9:37 AM Page(s):1",
+        "CARDINAL": "8",
+        "DATE": "7",
+        "PRODUCT": "PU",
+        "EVENT": "the Financing Statement Addendum",
+        "ORDINAL": "FIRST",
+        "GPE": "UCC1Ad"
+    },
+    {
+        "PERSON": "Bailee",
+        "ORG": "FILING OFFICE COPY",
+        "TIME": "5:19 AM Page(s):1\n",
+        "DATE": "271332474",
+        "CARDINAL": "8",
+        "EVENT": "the Financing Statement Addendum",
+        "GPE": "UCC1Ad"
+    },
+    {
+        "PERSON": "Bailee",
+        "GPE": "UCC1Ad",
+        "ORG": "FILING OFFICE COPY",
+        "CARDINAL": "20231214072243237",
+        "TIME": "7:23 AM",
+        "LAW": "ARTICLE 9 OF THE UNIFORM",
+        "DATE": "7",
+        "EVENT": "the Financing Statement Addendum",
+        "ORDINAL": "FIRST",
+        "LOC": "WEST END"
+    }
+]
