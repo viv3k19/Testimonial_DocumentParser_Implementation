@@ -48,5 +48,5 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 | - Overlapping Text                                                           |                                                                              |
 
 
-## Contact
+## Contribute
 * Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
