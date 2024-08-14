@@ -47,12 +47,6 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 | - Noise in Input Data                                                        |                                                                              |
 | - Overlapping Text                                                           |                                                                              |
 
-## References
-- https://layout-parser.github.io/
-- https://docs.cloud.llamaindex.ai/
-- https://docs.cognitivelab.in/
-- https://filimoa.github.io/open-parse/ 
-- https://mindee.github.io/doctr/ 
-- https://nanonets.com/blog/ocr-with-tesseract/ 
+
 ## Contribute
 * Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
