@@ -47,3 +47,14 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 - Dynamic Content
 - Noise in Input Data
 - Overlapping Text
+
+## Testcases
+- Layout - blockwise extraction
+- Metadata extraction
+- RegEx based extraction
+- OCR based extraction
+- API based extraction
+- Pattern based extraction
+- NER based extraction
+- LLM based extraction
+- Predefined python based extraction
