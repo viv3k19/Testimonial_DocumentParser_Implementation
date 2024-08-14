@@ -1,0 +1,25 @@
+{
+    "filing_id": null,
+    "document_id": "17503743001",
+    "bank_name": null,
+    "debtor": {
+        "name": null,
+        "address": null
+    },
+    "secured_party": {
+        "name": "FIRST COMMUNITY BANK",
+        "address": null
+    },
+    "collateral": "This financing statement covers the following collateral:\n2023 MERCURY 250 HP MOTOR SN: 3B211291, PLUS ANY AND ALL PARTS, ATTACHMENTS OR ACCESSIONS\nTHERETO; WHETHER ANY OF THE FOREGOING IS OWNED NOW OR ACQUIRED LATER; ALL ACCESSIONS,\nADDITIONS, REPLACEMENTS, AND SUBSTITUTIONS RELATING TO ANY OF THE FOREGOING; ALL\nRECORDS OF ANY KIND RELATING TO ANY OF THE FOREGOING; ALL PROCEEDS RELATING TO ANY OF\nTHE FOREGOING (INCLUDING INSURANCE, GENERAL INTANGIBLES AND ACCOUNTS PROCEEDS)",
+    "GPE": "UCC1Ad",
+    "ORG": "FILING OFFICE COPY",
+    "TIME": "1/20/2023 9:37 AM",
+    "CARDINAL": "8",
+    "PERSON": "Lessee",
+    "NORP": "Lem",
+    "DATE": "1116170",
+    "EVENT": "the Financing Statement Addendum",
+    "ORDINAL": "FIRST",
+    "LOC": "Sea",
+    "PRODUCT": "a Etta"
+}
