@@ -29,33 +29,24 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 
 
 
-## Edgecases 
-- Varied Layouts
-- Noisy Backgrounds
-- Mixed Font Styles and Sizes
-- Low-Quality Scans
-- Handwritten Text
-- Complex Tables
-- Language and Character Set Variability
-- Embedded Graphics and Charts
-- Incorrect Document Orientation
-- Inconsistent Terminology
-- Variable Page Sizes
-- Missing Data
-- Dynamic Content
-- Noise in Input Data
-- Overlapping Text
+| ## Edgecases                                                                 | ## Testcases                                                      |
+|------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| - Varied Layouts                                                             | - Layout - blockwise extraction                                   |
+| - Noisy Backgrounds                                                          | - Metadata extraction                                             |
+| - Mixed Font Styles and Sizes                                                | - RegEx based extraction                                          |
+| - Low-Quality Scans                                                          | - OCR based extraction                                            |
+| - Handwritten Text                                                           | - API based extraction                                            |
+| - Complex Tables                                                             | - Pattern based extraction                                        |
+| - Language and Character Set Variability                                     | - NER based extraction                                            |
+| - Embedded Graphics and Charts                                               | - LLM based extraction                                            |
+| - Incorrect Document Orientation                                             | - Predefined python based extraction                              |
+| - Inconsistent Terminology                                                   |                                                                   |
+| - Variable Page Sizes                                                        |                                                                   |
+| - Missing Data                                                               |                                                                   |
+| - Dynamic Content                                                            |                                                                   |
+| - Noise in Input Data                                                        |                                                                   |
+| - Overlapping Text                                                           |                                                                   |
 
-## Testcases
-- Layout - blockwise extraction
-- Metadata extraction
-- RegEx based extraction
-- OCR based extraction
-- API based extraction
-- Pattern based extraction
-- NER based extraction
-- LLM based extraction
-- Predefined python based extraction
 
 ## Contact
 * Vivek Malam - Feel free to contact me at viv3k.19@gmail.com for any questions or feedback.
