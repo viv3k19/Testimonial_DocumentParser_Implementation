@@ -30,3 +30,20 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 
 7. **Document Parsing using PyTesseract**  
    This notebook provides a Python script to parse and extract structured data from an image using the pytesseract library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
+
+## Edgecases 
+- Varied Layouts
+- Noisy Backgrounds
+- Mixed Font Styles and Sizes
+- Low-Quality Scans
+- Handwritten Text
+- Complex Tables
+- Language and Character Set Variability
+- Embedded Graphics and Charts
+- Incorrect Document Orientation
+- Inconsistent Terminology
+- Variable Page Sizes
+- Missing Data
+- Dynamic Content
+- Noise in Input Data
+- Overlapping Text
