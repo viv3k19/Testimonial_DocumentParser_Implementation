@@ -10,17 +10,17 @@ I have implemented a document parser, beginning with extensive research into var
 
 Despite the thorough research conducted, I have encountered challenges in achieving effective parsing from noisy images and PDFs. I remain committed to this endeavor, and the latest 2024-synced repository is accessible for review.
 
-1. **Document Parsing using PyTesseract**  
+1. **Document Parsing using PyTesseract [>_](using_PyTesseract)**  
    This notebook provides a Python script to parse and extract structured data from an image using the pytesseract library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
 
 2. **Document Parsing using OmniParse**  
-   This project provides a Python-based implementation of a document parser using the OmniParse library. The script is designed to run in a Colab environment and automates the setup process for working with OmniParse, enabling users to extract structured data from documents.
+   This notebook provides a Python-based implementation of a document parser using the OmniParse library. The script is designed to run in a Colab environment and automates the setup process for working with OmniParse, enabling users to extract structured data from documents.
 
 3. **Document Parsing using LlamaParse**  
    This notebook demonstrates how to use LlamaParse, a document parsing library, to extract text and images from PDF files. It leverages Anthropic APIs for embedding and multimodal processing.
 
 4. **Document Parsing using docTR**  
-   This project provides a Python-based implementation of a document parser using the docTR library. The script is designed to run in a Colab environment and facilitates Optical Character Recognition (OCR) by leveraging docTR's capabilities with either TensorFlow or PyTorch backends.
+   This notebook provides a Python-based implementation of a document parser using the docTR library. The script is designed to run in a Colab environment and facilitates Optical Character Recognition (OCR) by leveraging docTR's capabilities with either TensorFlow or PyTorch backends.
 
 5. **Document Parsing using LayoutParser**  
    This notebook provides a Python-based implementation of a document parser using the LayoutParser library. The script leverages deep learning models to detect and extract structured data from PDF or image files, converting them into JSON format.
