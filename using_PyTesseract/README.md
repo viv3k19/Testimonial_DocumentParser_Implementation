@@ -40,7 +40,7 @@ image_path = 'your_image_here'
 # Parse the document and print the result
 parsed_data = parse_document(image_path)
 print(json.dumps(parsed_data, indent=4))
-```
+``` 
 ## Limitations
 OCR Accuracy: The quality of the extracted text is highly dependent on the clarity and resolution of the input image.
 Regular Expression Matching: The script uses predefined regular expressions, which may not generalize well to documents with different formats or layouts.
