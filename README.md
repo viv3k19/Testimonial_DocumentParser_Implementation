@@ -10,7 +10,7 @@ I have implemented a document parser, beginning with extensive research into var
 
 Despite the thorough research conducted, I have encountered challenges in achieving effective parsing from noisy images and PDFs. I remain committed to this endeavor, and the latest 2024-synced repository is accessible for review.
 
-1. **Document Parsing using PyTesseract [[>_]](using_PyTesseract)**  
+1. **Document Parsing using PyTesseract [ : Colab Notebook](using_PyTesseract)**  
    This notebook provides a Python script to parse and extract structured data from an image using the pytesseract library. The script uses Optical Character Recognition (OCR) to read text from images and applies regular expressions to identify and extract specific information, converting it into a structured JSON format.
 
 2. **Document Parsing using OmniParse**  
