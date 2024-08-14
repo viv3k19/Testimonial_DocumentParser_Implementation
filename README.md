@@ -29,7 +29,7 @@ Despite the thorough research conducted, I have encountered challenges in achiev
 
 
 
-| ## Edgecases                                                                 | ## Testcases                                                      |
+|  Edgecases                                                                   |  Testcases                                                        |
 |------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | - Varied Layouts                                                             | - Layout - blockwise extraction                                   |
 | - Noisy Backgrounds                                                          | - Metadata extraction                                             |
