@@ -1,6 +1,6 @@
 # DocumentParser_using_OmniParse
 
-This project provides a Python-based implementation of a document parser using the OmniParse library. The script is designed to run in a Colab environment and automates the setup process for working with OmniParse, enabling users to extract structured data from documents.
+This notebook provides a Python-based implementation of a document parser using the OmniParse library. The script is designed to run in a Colab environment and automates the setup process for working with OmniParse, enabling users to extract structured data from documents.
 
 ## Table of Contents
 
